@@ -1337,3 +1337,5 @@ Resources for contributors
 - [Generic WAL Records](https://www.postgresql.org/docs/current/generic-wal.html)
 
 <!-- Auto-update: 2025-10-06T12:44:54.024317 -->
+
+<!-- Auto-update: 2025-10-06T21:21:37.570570 -->
