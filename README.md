@@ -1335,3 +1335,5 @@ Resources for contributors
 - [Extension Building Infrastructure](https://www.postgresql.org/docs/current/extend-pgxs.html)
 - [Index Access Method Interface Definition](https://www.postgresql.org/docs/current/indexam.html)
 - [Generic WAL Records](https://www.postgresql.org/docs/current/generic-wal.html)
+
+<!-- Auto-update: 2025-10-06T12:44:54.024317 -->
